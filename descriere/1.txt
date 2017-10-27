@@ -1,0 +1,2 @@
+Test autoevaluare: Test PHP
+Testul contine 14 de intrebari si nu are limita de timp.

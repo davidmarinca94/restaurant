@@ -1,0 +1,2 @@
+test JAVA-SE
+Testul contine 15 de intrebari si nu are limita de timp.
